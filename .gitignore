@@ -18,3 +18,27 @@
 ### Go Patch ###
 /vendor/
 /Godeps/
+
+
+# Created by https://www.toptal.com/developers/gitignore/api/intellij+iml
+# Edit at https://www.toptal.com/developers/gitignore?templates=intellij+iml
+
+### Intellij ###
+
+.idea/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+*.iml
+modules.xml
+*.ipr
